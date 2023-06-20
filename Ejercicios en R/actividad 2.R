@@ -6,8 +6,8 @@ if (a>b){
   print("el primer numero es mayor")}
 
 velocidad<- function(d,t){
-  d1=d*1000 #convertimos km a m
-  t1=t*60   #convertimos min a seg
+  d1=d*1000 
+  t1=t*60  
   v=d1/t1
   return(v)
 }
