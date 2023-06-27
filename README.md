@@ -1,2 +1,2 @@
 # Diplomado_CMD
-Trabajos del diplomado 
+Trabajos y tareas del diplomado, "Ciencia matemática de datos"
