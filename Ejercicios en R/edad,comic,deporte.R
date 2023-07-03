@@ -19,9 +19,7 @@ mimacro<-data.frame(edad,deporte,comic_fav)
 mimacro
 
 
-#listas para datos heterogeneos distintos datos
-#el data frame puede ser de diferente tipo dentro de una columna
-# 
+#listas para datos heterogeneos distintos datos, data frame puede ser de diferente tipo dentro de una columna
 
 str(mimacro)
 identical(1,1.0)
