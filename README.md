@@ -1,2 +1,2 @@
 # Diplomado_CMD
-Trabajos y tareas del diplomado, "Ciencia matemática de datos"
+Repositorio de proyectos hechos en SQL, POWER BI y PYTHON
