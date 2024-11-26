@@ -1,0 +1,2 @@
+# Creación de análisis de datos con Power BI
+# casos de análisis de ventas, encuestas, economía, entre otros 
